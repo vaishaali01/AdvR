@@ -1,0 +1,268 @@
+---
+title: "Human Development Indicators Analysis"
+author: "Vaishaali Kondapalli - 23200337"
+format: revealjs
+editor: visual
+---
+
+## HDIA {background-color="aquamarine"}
+
+For the Human Development Indicators Analysis task the two countries whose data I have have chosen to work with are <b>Malaysia</b> and <b>Netherlands</b>.
+
+# *Data Preparation*
+
+<small>Here we're just reading our datasets, merging them using rbind so that data analysis becomes easier further.</small>
+
+```{r}
+# Load necessary packages
+library(data.table)
+
+# Read in the datasets for Malaysia and the Netherlands
+data_mys <- fread("hdro_indicators_mys.csv")
+data_nld <- fread("hdro_indicators_nld.csv")
+
+# Assign correct classes to variables
+data_mys[, year := as.integer(year)]
+data_nld[, year := as.integer(year)]
+
+# Merge the datasets
+data_merged <- rbind(data_mys, data_nld)
+```
+
+# *Data Exploration* {.smaller}
+
+<small>Let's start off with doing some quick data exploration to understand our data.</small>
+
+```{r}
+
+# Quick data exploration for Malaysia
+cat("Summary for Malaysia:\n")
+summary(data_mys)
+cat("\nStructure for Malaysia:\n")
+str(data_mys)
+cat("\nFirst few rows for Malaysia:\n")
+head(data_mys)
+
+```
+
+```{=html}
+<!-- Here are a few noteworthy points from the summary and structure of the Malaysia dataset:
+
+### Summary for Malaysia:
+
+**General Information**: 
+
+- **Number of Observations**: The dataset contains 862 observations. 
+
+- **Variables**: The dataset includes the following variables: `country_code`, `country_name`, `indicator_id`, `indicator_name`, `index_id`, `index_name`, `value`, and `year`.
+
+### Structure for Malaysia:
+
+1.  **Data Types**:
+    -   The dataset is a `data.table` and `data.frame` with 862 observations and 8 variables.
+    -   All variables except for `value` (numeric) and `year` (integer) are of type `character`.
+2.  **Variables Overview**:
+    -   **country_code**: Always "MYS" indicating Malaysia.
+    -   **country_name**: Always "Malaysia".
+    -   **indicator_id**: Examples include "abr" (Adolescent Birth Rate).
+    -   **indicator_name**: Descriptive names of indicators, such as "Adolescent Birth Rate (births per 1,000 women ages 15-19)".
+    -   **index_id**: Examples include "GII" (Gender Inequality Index).
+    -   **index_name**: Descriptive names of indices, such as "Gender Inequality Index".
+    -   **value**: Numeric values associated with indicators, ranging from 18.1 to 34983.47.
+    -   **year**: Integer values indicating the year of the observation, ranging from 1990 to 2022.
+
+These points summarize key aspects of the Malaysia dataset. -->
+```
+<small>Now lets do it for netherlands:</small>
+
+```{r}
+# Quick data exploration for Netherlands
+cat("\nSummary for Netherlands:\n")
+summary(data_nld)
+cat("\nStructure for Netherlands:\n")
+str(data_nld)
+cat("\nFirst few rows for Netherlands:\n")
+head(data_nld)
+```
+
+```{=html}
+<!--Here are a few noteworthy points from the summary and structure of the Netherlands dataset:
+
+### Summary for Netherlands:
+
+**General Information**: 
+
+- **Number of Observations**: The dataset contains 894 observations. 
+
+- **Variables**: The dataset includes the following variables: `country_code`, `country_name`, `indicator_id`, `indicator_name`, `index_id`, `index_name`, `value`, and `year`.
+
+### Structure for Netherlands:
+
+1.  **Data Types**:
+    -   The dataset is a `data.table` and `data.frame` with 894 observations and 8 variables.
+    -   All variables except for `value` (numeric) and `year` (integer) are of type `character`.
+2.  **Variables Overview**:
+    -   **country_code**: Always "NLD" indicating the Netherlands.
+    -   **country_name**: Always "Netherlands".
+    -   **indicator_id**: Examples include "abr" (Adolescent Birth Rate).
+    -   **indicator_name**: Descriptive names of indicators, such as "Adolescent Birth Rate (births per 1,000 women ages 15-19)".
+    -   **index_id**: Examples include "GII" (Gender Inequality Index).
+    -   **index_name**: Descriptive names of indices, such as "Gender Inequality Index".
+    -   **value**: Numeric values associated with indicators, ranging from 8.73 to 71504.37.
+    -   **year**: Integer values indicating the year of the observation, ranging from 1990 to 2022.
+
+These points summarize key aspects of the Netherlands dataset. -->
+```
+# *Data Analysis and Visualization* {.smaller}
+
+PLOT 1
+
+```{r}
+ library(data.table)
+library(ggplot2)
+
+# Filtering the data for indicator_id's se_m and se_f with index_id "GII"
+
+#NOTE: se_f :-	Population with at least some secondary education, female (% ages 25 and older), 
+#se_m :- Population with at least some secondary education, male (% ages 25 and older)
+
+filtered_data <- data_merged[index_id == "GII" & (indicator_id %in% c("se_m", "se_f"))]
+
+# Plotting with ggplot2, assigning different linestyles
+ggplot(filtered_data, aes(x = year, y = value, color = country_name, linetype = indicator_id)) +
+  geom_line() +
+  labs(title = "Trend of Gender Inequality Index (se_m) and Gender Inequality Index (se_f)",
+       x = "Year",
+       y = "Value",
+       color = "Country") +
+  scale_linetype_manual(values = c("se_m" = "dashed", "se_f" = "solid")) +  # Assign linestyles
+  theme_minimal()
+
+```
+
+<small>Here, the first observation we can make immediately is that the values present for Gender Inequality Index for se_m i.e, Population with at least some secondary education, male (% ages 25 and older) have always been <u>*higher*</u> than se_f i.e, Population with at least some secondary education, female (% ages 25 and older) at both countries Malaysia and Netherlands.
+
+Also, the values for se_m and se_f for Netherlands were approximately (X2) compared to Malaysia {40 ish values at Malaysia but around 80 at Netherlands} in 1990 but by 2022, the values for Netherlands just went up 5 points, the values for Malaysia went up by soo much more. The trendlines portray how the values shot up from 40 to almost 80 for Malaysia by 2022.
+
+So, even though Population with at least some secondary education(% ages 25 and older) did increase in both countries, its notable that a gap still exists amost the two genders in both countries.</small>
+
+PLOT 2
+
+```{r}
+# Filtering the data for gnipc indicator
+filtered_gnipc <- data_merged[indicator_id == "gnipc"]
+#gnipc-Gross National Income Per Capita (2017 PPP$)
+
+# Plotting with ggplot2
+ggplot(filtered_gnipc, aes(x = year, y = value, color = country_name, group = country_name)) +
+  geom_line() +
+  labs(title = "Trend of Gross National Income Per Capita over Years",
+       x = "Year",
+       y = "GNI per Capita",
+       color = "Country") +
+  theme_minimal()
+```
+
+<small>The observation we can make from this plot is that both the countries have a positive trendline, which is a good sign but Malaysia has always been behind Netherlands though.
+
+Both of the countries do have a dip in their gnipc i.e, Gross National Income Per Capita (2017 PPP\$) in the year 2020 which could have taken place becuse of the pandemic but eventually both of them did recover from that dip by 2022. </small>
+
+PLOT 3
+
+```{r}
+# Calculating the minimum and maximum GNI per capita by country using keyby
+gnipc_stats <- filtered_gnipc[, .(min_gnipc = min(value, na.rm = TRUE), max_gnipc = max(value, na.rm = TRUE)), keyby = country_name]
+
+# Printing our results
+cat("Minimum and Maximum GNI per Capita by Country:\n")
+print(gnipc_stats)
+
+# Plotting the minimum and maximum GNI per capita using ggplot2
+ggplot(melt(gnipc_stats, id.vars = "country_name"), aes(x = country_name, y = value, fill = variable)) +
+  geom_bar(stat = "identity", position = "dodge") +
+  labs(title = "Minimum and Maximum GNI per Capita for Malaysia and Netherlands",
+       x = "Country",
+       y = "GNI per Capita",
+       fill = "Statistic") +
+  theme_minimal()
+```
+
+<small>Even the minimum gnicp of Netherlands is more than the maximum gnicp of Malaysia :( </small>
+
+PLOT 4
+
+```{r}
+
+# Filter the data for Life Expectancy indicator (le)
+filtered_le <- data_merged[indicator_id == "le"]
+
+# Plotting with ggplot2
+ggplot(filtered_le, aes(x = factor(year), y = value, fill = country_name)) +
+  geom_bar(stat = "identity", position = "dodge") +
+  labs(title = "Life Expectancy at Birth (years) for Malaysia and Netherlands",
+       x = "Year",
+       y = "Life Expectancy",
+       fill = "Country") +
+  theme_minimal() +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1))  # Rotate x-axis labels for better readability
+
+```
+
+<small>As we can see from above plot, 'le' i.e, the Life Expectancy at Birth (years) for both the countries are well above 70 and 'le' has always been higher at Netherlands as compared to Malaysia.</small>
+
+PLOT 5
+
+<small>Now for inequality in income, data has been provided only from year 2010, so we'll plot from 2010 to 2022.</small>
+
+```{r}
+# Filtering the data for ineq_inc indicator
+filtered_ineq_inc <- data_merged[indicator_id == "ineq_inc"]
+
+# Plotting with ggplot2
+ggplot(filtered_ineq_inc, aes(x = year, y = value, color = country_name, group = country_name)) +
+  geom_point() +  # Use points for the plot
+  geom_smooth(method = "loess") +  # Add a smooth trendline
+  scale_x_continuous(breaks = seq(1990, 2022, by = 2)) +  # Set x-axis range and breaks
+  theme(axis.text.x = element_text(angle = 45, hjust = 1)) +  # Tilt x-axis labels
+  labs(title = "Trend of Income Inequality over Years",
+       x = "Year",
+       y = "Income Inequality",
+       color = "Country") +
+  theme_minimal()
+
+```
+
+<small>Now, in the plot shown above, it portrays how inequality in income has reduced in both countries and its clear than from 2010 to 2022, the income inequality value has always been been higher in Malaysia as compared to Netherlands.</small>
+
+PLOT 6
+
+```{r}
+# Filtering the data for lfpr_f and lfpr_m indicators for the Netherlands
+#lfpr_m: Labour force participation rate, male (% ages 15 and older)
+#lfpr_f: Labour force participation rate, female (% ages 15 and older)
+
+# Filter the data for lfpr_f and lfpr_m indicators for both countries
+lfpr_data <- data_merged[indicator_id %in% c("lfpr_f", "lfpr_m")]
+
+# Plotting with ggplot2
+ggplot(lfpr_data, aes(x = year, y = value, color = country_name, linetype = indicator_id)) +
+  geom_line() +
+  geom_point() +
+  labs(title = "Year-wise Labor Force Participation Rate (Male and Female) in Malaysia and Netherlands",
+       x = "Year",
+       y = "Labor Force Participation Rate (%)",
+       color = "Country",
+       linetype = "Indicator") +
+  scale_color_manual(values = c("Malaysia" = "red", "Netherlands" = "blue")) +
+  scale_linetype_manual(values = c("lfpr_f" = "solid", "lfpr_m" = "dashed"), 
+                        labels = c("lfpr_f" = "Female", "lfpr_m" = "Male")) +
+  theme_minimal() +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1))  # Rotate x-axis labels for better readability
+
+```
+
+<small>From the above plot we now know that value of lfpr_m i.e, Labour force participation rate, male (% ages 15 and older) has always been higher in Malaysia as compared to Netherlands.</small>
+
+<small>As for lfpr_f i.e,Labour force participation rate, female (% ages 15 and older), we can see clearly that the value has increased significantly by 2022 as compared to 1990 for both countries.</small>
+
+# *Fin* {background-color="aquamarine"}

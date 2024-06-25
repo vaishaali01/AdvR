@@ -1,0 +1,863 @@
+country_code,country_name,indicator_id,indicator_name,index_id,index_name,value,year
+MYS,Malaysia,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,19.418,1990
+MYS,Malaysia,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,19.329,1991
+MYS,Malaysia,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,19.064,1992
+MYS,Malaysia,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,18.422,1993
+MYS,Malaysia,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,18.055,1994
+MYS,Malaysia,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,16.597,1995
+MYS,Malaysia,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,16.109,1996
+MYS,Malaysia,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,15.07,1997
+MYS,Malaysia,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,13.987,1998
+MYS,Malaysia,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,12.448,1999
+MYS,Malaysia,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,12.106,2000
+MYS,Malaysia,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,14.452,2001
+MYS,Malaysia,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,13.842,2002
+MYS,Malaysia,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,13.424,2003
+MYS,Malaysia,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,13.226,2004
+MYS,Malaysia,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,12.883,2005
+MYS,Malaysia,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,12.349,2006
+MYS,Malaysia,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,12.182,2007
+MYS,Malaysia,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,13.559,2008
+MYS,Malaysia,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,14.198,2009
+MYS,Malaysia,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,13.932,2010
+MYS,Malaysia,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,14.129,2011
+MYS,Malaysia,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,13.298,2012
+MYS,Malaysia,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,13.825,2013
+MYS,Malaysia,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,13.434,2014
+MYS,Malaysia,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,12.274,2015
+MYS,Malaysia,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,10.94,2016
+MYS,Malaysia,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,10.054,2017
+MYS,Malaysia,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,9.536,2018
+MYS,Malaysia,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,9.353,2019
+MYS,Malaysia,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,9.315,2020
+MYS,Malaysia,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,9.271,2021
+MYS,Malaysia,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,9.127,2022
+MYS,Malaysia,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,3.098,1990
+MYS,Malaysia,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,3.651,1991
+MYS,Malaysia,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,3.938,1992
+MYS,Malaysia,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,4.552,1993
+MYS,Malaysia,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,4.494,1994
+MYS,Malaysia,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,5.504,1995
+MYS,Malaysia,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,5.347,1996
+MYS,Malaysia,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,5.63,1997
+MYS,Malaysia,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,5.033,1998
+MYS,Malaysia,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,4.649,1999
+MYS,Malaysia,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,5.355,2000
+MYS,Malaysia,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,5.56,2001
+MYS,Malaysia,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,5.469,2002
+MYS,Malaysia,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,6.2,2003
+MYS,Malaysia,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,6.698,2004
+MYS,Malaysia,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,6.556,2005
+MYS,Malaysia,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,6.419,2006
+MYS,Malaysia,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,6.476,2007
+MYS,Malaysia,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,6.971,2008
+MYS,Malaysia,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,6.809,2009
+MYS,Malaysia,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,6.942,2010
+MYS,Malaysia,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,6.971,2011
+MYS,Malaysia,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,7.181,2012
+MYS,Malaysia,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,8.02,2013
+MYS,Malaysia,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,8.006,2014
+MYS,Malaysia,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,7.58,2015
+MYS,Malaysia,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,7.512,2016
+MYS,Malaysia,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,7.634,2017
+MYS,Malaysia,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,8.093,2018
+MYS,Malaysia,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,8.154,2019
+MYS,Malaysia,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,8.11,2020
+MYS,Malaysia,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,8.306,2021
+MYS,Malaysia,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,8.306,2022
+MYS,Malaysia,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,16.924,2010
+MYS,Malaysia,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,16.903,2011
+MYS,Malaysia,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,16.217,2012
+MYS,Malaysia,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,16.209,2013
+MYS,Malaysia,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,15.184,2014
+MYS,Malaysia,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,15.187,2015
+MYS,Malaysia,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,14.302,2016
+MYS,Malaysia,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,14.234,2017
+MYS,Malaysia,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,14.247,2018
+MYS,Malaysia,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,14.092,2019
+MYS,Malaysia,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,14.089,2020
+MYS,Malaysia,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,14.056,2021
+MYS,Malaysia,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,13.839,2022
+MYS,Malaysia,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,5.701,1990
+MYS,Malaysia,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,6.393,1991
+MYS,Malaysia,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,7.068,1992
+MYS,Malaysia,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,7.75,1993
+MYS,Malaysia,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,7.953,1994
+MYS,Malaysia,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,8.746,1995
+MYS,Malaysia,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,9.77,1996
+MYS,Malaysia,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,9.335,1997
+MYS,Malaysia,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,6.62,1998
+MYS,Malaysia,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,6.573,1999
+MYS,Malaysia,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,8.127,2000
+MYS,Malaysia,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,8.953,2001
+MYS,Malaysia,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,8,2002
+MYS,Malaysia,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,8.767,2003
+MYS,Malaysia,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,9.029,2004
+MYS,Malaysia,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,8.929,2005
+MYS,Malaysia,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,9.29,2006
+MYS,Malaysia,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,9.677,2007
+MYS,Malaysia,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,9.947,2008
+MYS,Malaysia,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,9.855,2009
+MYS,Malaysia,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,10.156,2010
+MYS,Malaysia,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,11.543,2011
+MYS,Malaysia,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,12.227,2012
+MYS,Malaysia,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,12.148,2013
+MYS,Malaysia,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,12.325,2014
+MYS,Malaysia,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,11.869,2015
+MYS,Malaysia,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,11.905,2016
+MYS,Malaysia,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,12.625,2017
+MYS,Malaysia,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,14.339,2018
+MYS,Malaysia,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,12.919,2019
+MYS,Malaysia,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,13.84,2020
+MYS,Malaysia,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,12.657,2021
+MYS,Malaysia,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,12.763,2022
+MYS,Malaysia,eys,Expected Years of Schooling (years),HDI,Human Development Index,10.477,1990
+MYS,Malaysia,eys,Expected Years of Schooling (years),HDI,Human Development Index,10.622,1991
+MYS,Malaysia,eys,Expected Years of Schooling (years),HDI,Human Development Index,10.795,1992
+MYS,Malaysia,eys,Expected Years of Schooling (years),HDI,Human Development Index,10.748,1993
+MYS,Malaysia,eys,Expected Years of Schooling (years),HDI,Human Development Index,10.793,1994
+MYS,Malaysia,eys,Expected Years of Schooling (years),HDI,Human Development Index,10.842,1995
+MYS,Malaysia,eys,Expected Years of Schooling (years),HDI,Human Development Index,11.296,1996
+MYS,Malaysia,eys,Expected Years of Schooling (years),HDI,Human Development Index,11.75,1997
+MYS,Malaysia,eys,Expected Years of Schooling (years),HDI,Human Development Index,12.204,1998
+MYS,Malaysia,eys,Expected Years of Schooling (years),HDI,Human Development Index,12.155,1999
+MYS,Malaysia,eys,Expected Years of Schooling (years),HDI,Human Development Index,12.393,2000
+MYS,Malaysia,eys,Expected Years of Schooling (years),HDI,Human Development Index,12.323,2001
+MYS,Malaysia,eys,Expected Years of Schooling (years),HDI,Human Development Index,12.248,2002
+MYS,Malaysia,eys,Expected Years of Schooling (years),HDI,Human Development Index,12.626,2003
+MYS,Malaysia,eys,Expected Years of Schooling (years),HDI,Human Development Index,12.709,2004
+MYS,Malaysia,eys,Expected Years of Schooling (years),HDI,Human Development Index,12.342,2005
+MYS,Malaysia,eys,Expected Years of Schooling (years),HDI,Human Development Index,11.944,2006
+MYS,Malaysia,eys,Expected Years of Schooling (years),HDI,Human Development Index,12.174,2007
+MYS,Malaysia,eys,Expected Years of Schooling (years),HDI,Human Development Index,12.367,2008
+MYS,Malaysia,eys,Expected Years of Schooling (years),HDI,Human Development Index,12.554,2009
+MYS,Malaysia,eys,Expected Years of Schooling (years),HDI,Human Development Index,12.785,2010
+MYS,Malaysia,eys,Expected Years of Schooling (years),HDI,Human Development Index,12.64,2011
+MYS,Malaysia,eys,Expected Years of Schooling (years),HDI,Human Development Index,12.866,2012
+MYS,Malaysia,eys,Expected Years of Schooling (years),HDI,Human Development Index,13.003,2013
+MYS,Malaysia,eys,Expected Years of Schooling (years),HDI,Human Development Index,13.126,2014
+MYS,Malaysia,eys,Expected Years of Schooling (years),HDI,Human Development Index,13.285,2015
+MYS,Malaysia,eys,Expected Years of Schooling (years),HDI,Human Development Index,13.463,2016
+MYS,Malaysia,eys,Expected Years of Schooling (years),HDI,Human Development Index,13.278,2017
+MYS,Malaysia,eys,Expected Years of Schooling (years),HDI,Human Development Index,13.149,2018
+MYS,Malaysia,eys,Expected Years of Schooling (years),HDI,Human Development Index,13.1,2019
+MYS,Malaysia,eys,Expected Years of Schooling (years),HDI,Human Development Index,12.958,2020
+MYS,Malaysia,eys,Expected Years of Schooling (years),HDI,Human Development Index,12.932,2021
+MYS,Malaysia,eys,Expected Years of Schooling (years),HDI,Human Development Index,12.932,2022
+MYS,Malaysia,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,12.478,1998
+MYS,Malaysia,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,12.38,1999
+MYS,Malaysia,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,12.725,2000
+MYS,Malaysia,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,12.729,2001
+MYS,Malaysia,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,12.731,2002
+MYS,Malaysia,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,13.292,2003
+MYS,Malaysia,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,13.303,2004
+MYS,Malaysia,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,12.832,2005
+MYS,Malaysia,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,12.404,2006
+MYS,Malaysia,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,12.619,2007
+MYS,Malaysia,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,12.84,2008
+MYS,Malaysia,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,12.984,2009
+MYS,Malaysia,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,13.196,2010
+MYS,Malaysia,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,13.109,2011
+MYS,Malaysia,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,13.304,2012
+MYS,Malaysia,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,13.498,2013
+MYS,Malaysia,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,13.65,2014
+MYS,Malaysia,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,13.824,2015
+MYS,Malaysia,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,13.866,2016
+MYS,Malaysia,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,13.627,2017
+MYS,Malaysia,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,13.614,2018
+MYS,Malaysia,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,13.583,2019
+MYS,Malaysia,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,13.443,2020
+MYS,Malaysia,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,13.395,2021
+MYS,Malaysia,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,13.395,2022
+MYS,Malaysia,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,11.943,1998
+MYS,Malaysia,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,11.941,1999
+MYS,Malaysia,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,12.078,2000
+MYS,Malaysia,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,11.939,2001
+MYS,Malaysia,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,11.793,2002
+MYS,Malaysia,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,12.001,2003
+MYS,Malaysia,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,12.154,2004
+MYS,Malaysia,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,11.885,2005
+MYS,Malaysia,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,11.516,2006
+MYS,Malaysia,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,11.761,2007
+MYS,Malaysia,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,11.926,2008
+MYS,Malaysia,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,12.152,2009
+MYS,Malaysia,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,12.396,2010
+MYS,Malaysia,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,12.201,2011
+MYS,Malaysia,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,12.454,2012
+MYS,Malaysia,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,12.536,2013
+MYS,Malaysia,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,12.634,2014
+MYS,Malaysia,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,12.778,2015
+MYS,Malaysia,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,13.081,2016
+MYS,Malaysia,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,12.949,2017
+MYS,Malaysia,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,12.71,2018
+MYS,Malaysia,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,12.644,2019
+MYS,Malaysia,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,12.5,2020
+MYS,Malaysia,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,12.496,2021
+MYS,Malaysia,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,12.496,2022
+MYS,Malaysia,gdi_group,GDI Group,GDI,Gender Development Index,2,2022
+MYS,Malaysia,gii_rank,GII Rank,GII,Gender Inequality Index,52,2022
+MYS,Malaysia,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,6113.231,1990
+MYS,Malaysia,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,5660.547,1991
+MYS,Malaysia,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,6764.842,1992
+MYS,Malaysia,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,7011.67,1993
+MYS,Malaysia,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,7499.041,1994
+MYS,Malaysia,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,7848.394,1995
+MYS,Malaysia,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,8489.808,1996
+MYS,Malaysia,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,8726.187,1997
+MYS,Malaysia,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,7716.439,1998
+MYS,Malaysia,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,7894.806,1999
+MYS,Malaysia,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,8760.081,2000
+MYS,Malaysia,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,8692.445,2001
+MYS,Malaysia,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,9082.238,2002
+MYS,Malaysia,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,9576.27,2003
+MYS,Malaysia,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,10039.989,2004
+MYS,Malaysia,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,10325.024,2005
+MYS,Malaysia,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,10815.898,2006
+MYS,Malaysia,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,11387.217,2007
+MYS,Malaysia,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,11612.509,2008
+MYS,Malaysia,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,11404.527,2009
+MYS,Malaysia,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,12482.539,2010
+MYS,Malaysia,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,14577.936,2011
+MYS,Malaysia,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,15538.601,2012
+MYS,Malaysia,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,14595.3,2013
+MYS,Malaysia,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,17163.718,2014
+MYS,Malaysia,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,18052.425,2015
+MYS,Malaysia,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,18220.961,2016
+MYS,Malaysia,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,19142.141,2017
+MYS,Malaysia,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,19874.199,2018
+MYS,Malaysia,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,20747.822,2019
+MYS,Malaysia,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,19916.509,2020
+MYS,Malaysia,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,18069.623,2021
+MYS,Malaysia,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,19262.04,2022
+MYS,Malaysia,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,14198.816,1990
+MYS,Malaysia,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,15740.505,1991
+MYS,Malaysia,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,15925.185,1992
+MYS,Malaysia,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,17290.464,1993
+MYS,Malaysia,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,18350.987,1994
+MYS,Malaysia,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,19723.9,1995
+MYS,Malaysia,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,21056.148,1996
+MYS,Malaysia,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,21899.525,1997
+MYS,Malaysia,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,19874.19,1998
+MYS,Malaysia,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,20151.389,1999
+MYS,Malaysia,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,20571.745,2000
+MYS,Malaysia,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,20501.019,2001
+MYS,Malaysia,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,20984.424,2002
+MYS,Malaysia,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,21851.558,2003
+MYS,Malaysia,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,22703.59,2004
+MYS,Malaysia,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,23687.38,2005
+MYS,Malaysia,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,24800.921,2006
+MYS,Malaysia,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,25941.992,2007
+MYS,Malaysia,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,26281.034,2008
+MYS,Malaysia,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,25639.003,2009
+MYS,Malaysia,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,26109.047,2010
+MYS,Malaysia,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,25855.841,2011
+MYS,Malaysia,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,25889.928,2012
+MYS,Malaysia,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,28235.075,2013
+MYS,Malaysia,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,27686.632,2014
+MYS,Malaysia,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,28654.317,2015
+MYS,Malaysia,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,29834.327,2016
+MYS,Malaysia,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,30968.607,2017
+MYS,Malaysia,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,31836.323,2018
+MYS,Malaysia,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,32864.417,2019
+MYS,Malaysia,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,30466.732,2020
+MYS,Malaysia,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,32834.895,2021
+MYS,Malaysia,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,34983.468,2022
+MYS,Malaysia,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,10209.355,1990
+MYS,Malaysia,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,10766.66,1991
+MYS,Malaysia,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,11404.813,1992
+MYS,Malaysia,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,12217.884,1993
+MYS,Malaysia,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,12995.378,1994
+MYS,Malaysia,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,13862.958,1995
+MYS,Malaysia,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,14854.035,1996
+MYS,Malaysia,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,15397.49,1997
+MYS,Malaysia,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,13872.984,1998
+MYS,Malaysia,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,14100.853,1999
+MYS,Malaysia,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,14747.652,2000
+MYS,Malaysia,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,14692.037,2001
+MYS,Malaysia,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,15142.334,2002
+MYS,Malaysia,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,15838.666,2003
+MYS,Malaysia,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,16512.29,2004
+MYS,Malaysia,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,17166.007,2005
+MYS,Malaysia,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,17986.87,2006
+MYS,Malaysia,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,18861.514,2007
+MYS,Malaysia,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,19155.986,2008
+MYS,Malaysia,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,18734.682,2009
+MYS,Malaysia,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,19501.462,2010
+MYS,Malaysia,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,20382.691,2011
+MYS,Malaysia,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,20862.55,2012
+MYS,Malaysia,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,21605.792,2013
+MYS,Malaysia,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,22568.729,2014
+MYS,Malaysia,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,23494.472,2015
+MYS,Malaysia,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,24178.179,2016
+MYS,Malaysia,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,25204.541,2017
+MYS,Malaysia,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,26002.091,2018
+MYS,Malaysia,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,26950.915,2019
+MYS,Malaysia,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,25314.338,2020
+MYS,Malaysia,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,25619.198,2021
+MYS,Malaysia,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,27295.412,2022
+MYS,Malaysia,hdi_f,HDI female,GDI,Gender Development Index,0.676,1998
+MYS,Malaysia,hdi_f,HDI female,GDI,Gender Development Index,0.681,1999
+MYS,Malaysia,hdi_f,HDI female,GDI,Gender Development Index,0.696,2000
+MYS,Malaysia,hdi_f,HDI female,GDI,Gender Development Index,0.696,2001
+MYS,Malaysia,hdi_f,HDI female,GDI,Gender Development Index,0.698,2002
+MYS,Malaysia,hdi_f,HDI female,GDI,Gender Development Index,0.706,2003
+MYS,Malaysia,hdi_f,HDI female,GDI,Gender Development Index,0.707,2004
+MYS,Malaysia,hdi_f,HDI female,GDI,Gender Development Index,0.702,2005
+MYS,Malaysia,hdi_f,HDI female,GDI,Gender Development Index,0.706,2006
+MYS,Malaysia,hdi_f,HDI female,GDI,Gender Development Index,0.718,2007
+MYS,Malaysia,hdi_f,HDI female,GDI,Gender Development Index,0.729,2008
+MYS,Malaysia,hdi_f,HDI female,GDI,Gender Development Index,0.737,2009
+MYS,Malaysia,hdi_f,HDI female,GDI,Gender Development Index,0.747,2010
+MYS,Malaysia,hdi_f,HDI female,GDI,Gender Development Index,0.757,2011
+MYS,Malaysia,hdi_f,HDI female,GDI,Gender Development Index,0.765,2012
+MYS,Malaysia,hdi_f,HDI female,GDI,Gender Development Index,0.766,2013
+MYS,Malaysia,hdi_f,HDI female,GDI,Gender Development Index,0.777,2014
+MYS,Malaysia,hdi_f,HDI female,GDI,Gender Development Index,0.784,2015
+MYS,Malaysia,hdi_f,HDI female,GDI,Gender Development Index,0.787,2016
+MYS,Malaysia,hdi_f,HDI female,GDI,Gender Development Index,0.789,2017
+MYS,Malaysia,hdi_f,HDI female,GDI,Gender Development Index,0.793,2018
+MYS,Malaysia,hdi_f,HDI female,GDI,Gender Development Index,0.796,2019
+MYS,Malaysia,hdi_f,HDI female,GDI,Gender Development Index,0.795,2020
+MYS,Malaysia,hdi_f,HDI female,GDI,Gender Development Index,0.784,2021
+MYS,Malaysia,hdi_f,HDI female,GDI,Gender Development Index,0.794,2022
+MYS,Malaysia,hdi_m,HDI male,GDI,Gender Development Index,0.734,1998
+MYS,Malaysia,hdi_m,HDI male,GDI,Gender Development Index,0.738,1999
+MYS,Malaysia,hdi_m,HDI male,GDI,Gender Development Index,0.746,2000
+MYS,Malaysia,hdi_m,HDI male,GDI,Gender Development Index,0.745,2001
+MYS,Malaysia,hdi_m,HDI male,GDI,Gender Development Index,0.743,2002
+MYS,Malaysia,hdi_m,HDI male,GDI,Gender Development Index,0.746,2003
+MYS,Malaysia,hdi_m,HDI male,GDI,Gender Development Index,0.747,2004
+MYS,Malaysia,hdi_m,HDI male,GDI,Gender Development Index,0.745,2005
+MYS,Malaysia,hdi_m,HDI male,GDI,Gender Development Index,0.75,2006
+MYS,Malaysia,hdi_m,HDI male,GDI,Gender Development Index,0.761,2007
+MYS,Malaysia,hdi_m,HDI male,GDI,Gender Development Index,0.77,2008
+MYS,Malaysia,hdi_m,HDI male,GDI,Gender Development Index,0.776,2009
+MYS,Malaysia,hdi_m,HDI male,GDI,Gender Development Index,0.782,2010
+MYS,Malaysia,hdi_m,HDI male,GDI,Gender Development Index,0.781,2011
+MYS,Malaysia,hdi_m,HDI male,GDI,Gender Development Index,0.787,2012
+MYS,Malaysia,hdi_m,HDI male,GDI,Gender Development Index,0.793,2013
+MYS,Malaysia,hdi_m,HDI male,GDI,Gender Development Index,0.795,2014
+MYS,Malaysia,hdi_m,HDI male,GDI,Gender Development Index,0.799,2015
+MYS,Malaysia,hdi_m,HDI male,GDI,Gender Development Index,0.806,2016
+MYS,Malaysia,hdi_m,HDI male,GDI,Gender Development Index,0.808,2017
+MYS,Malaysia,hdi_m,HDI male,GDI,Gender Development Index,0.809,2018
+MYS,Malaysia,hdi_m,HDI male,GDI,Gender Development Index,0.811,2019
+MYS,Malaysia,hdi_m,HDI male,GDI,Gender Development Index,0.808,2020
+MYS,Malaysia,hdi_m,HDI male,GDI,Gender Development Index,0.807,2021
+MYS,Malaysia,hdi_m,HDI male,GDI,Gender Development Index,0.816,2022
+MYS,Malaysia,hdi_rank,HDI Rank,HDI,Human Development Index,63,2022
+MYS,Malaysia,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,14.731,2010
+MYS,Malaysia,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,14.731,2011
+MYS,Malaysia,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,14.731,2012
+MYS,Malaysia,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,14.731,2013
+MYS,Malaysia,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,14.731,2014
+MYS,Malaysia,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,14.731,2015
+MYS,Malaysia,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,12.067,2016
+MYS,Malaysia,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,12.067,2017
+MYS,Malaysia,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,12.067,2018
+MYS,Malaysia,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,11.407,2019
+MYS,Malaysia,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,11.407,2020
+MYS,Malaysia,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,11.407,2021
+MYS,Malaysia,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,11.407,2022
+MYS,Malaysia,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,29.883,2010
+MYS,Malaysia,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,29.883,2011
+MYS,Malaysia,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,27.885,2012
+MYS,Malaysia,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,27.885,2013
+MYS,Malaysia,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,24.833,2014
+MYS,Malaysia,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,24.833,2015
+MYS,Malaysia,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,24.833,2016
+MYS,Malaysia,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,24.595,2017
+MYS,Malaysia,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,24.595,2018
+MYS,Malaysia,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,24.759,2019
+MYS,Malaysia,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,24.759,2020
+MYS,Malaysia,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,24.759,2021
+MYS,Malaysia,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,24.759,2022
+MYS,Malaysia,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,6.159,2010
+MYS,Malaysia,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,6.095,2011
+MYS,Malaysia,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,6.035,2012
+MYS,Malaysia,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,6.01,2013
+MYS,Malaysia,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,5.989,2014
+MYS,Malaysia,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,5.998,2015
+MYS,Malaysia,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,6.007,2016
+MYS,Malaysia,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,6.039,2017
+MYS,Malaysia,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,6.08,2018
+MYS,Malaysia,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,6.109,2019
+MYS,Malaysia,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,6.102,2020
+MYS,Malaysia,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,6.003,2021
+MYS,Malaysia,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,5.351,2022
+MYS,Malaysia,le,Life Expectancy at Birth (years),HDI,Human Development Index,71.307,1990
+MYS,Malaysia,le,Life Expectancy at Birth (years),HDI,Human Development Index,71.442,1991
+MYS,Malaysia,le,Life Expectancy at Birth (years),HDI,Human Development Index,71.526,1992
+MYS,Malaysia,le,Life Expectancy at Birth (years),HDI,Human Development Index,71.826,1993
+MYS,Malaysia,le,Life Expectancy at Birth (years),HDI,Human Development Index,72.163,1994
+MYS,Malaysia,le,Life Expectancy at Birth (years),HDI,Human Development Index,72.384,1995
+MYS,Malaysia,le,Life Expectancy at Birth (years),HDI,Human Development Index,72.327,1996
+MYS,Malaysia,le,Life Expectancy at Birth (years),HDI,Human Development Index,72.284,1997
+MYS,Malaysia,le,Life Expectancy at Birth (years),HDI,Human Development Index,72.168,1998
+MYS,Malaysia,le,Life Expectancy at Birth (years),HDI,Human Development Index,72.283,1999
+MYS,Malaysia,le,Life Expectancy at Birth (years),HDI,Human Development Index,72.775,2000
+MYS,Malaysia,le,Life Expectancy at Birth (years),HDI,Human Development Index,73.344,2001
+MYS,Malaysia,le,Life Expectancy at Birth (years),HDI,Human Development Index,73.563,2002
+MYS,Malaysia,le,Life Expectancy at Birth (years),HDI,Human Development Index,73.796,2003
+MYS,Malaysia,le,Life Expectancy at Birth (years),HDI,Human Development Index,73.898,2004
+MYS,Malaysia,le,Life Expectancy at Birth (years),HDI,Human Development Index,74.096,2005
+MYS,Malaysia,le,Life Expectancy at Birth (years),HDI,Human Development Index,74.164,2006
+MYS,Malaysia,le,Life Expectancy at Birth (years),HDI,Human Development Index,74.211,2007
+MYS,Malaysia,le,Life Expectancy at Birth (years),HDI,Human Development Index,74.25,2008
+MYS,Malaysia,le,Life Expectancy at Birth (years),HDI,Human Development Index,74.227,2009
+MYS,Malaysia,le,Life Expectancy at Birth (years),HDI,Human Development Index,74.442,2010
+MYS,Malaysia,le,Life Expectancy at Birth (years),HDI,Human Development Index,74.746,2011
+MYS,Malaysia,le,Life Expectancy at Birth (years),HDI,Human Development Index,74.944,2012
+MYS,Malaysia,le,Life Expectancy at Birth (years),HDI,Human Development Index,75.035,2013
+MYS,Malaysia,le,Life Expectancy at Birth (years),HDI,Human Development Index,75.146,2014
+MYS,Malaysia,le,Life Expectancy at Birth (years),HDI,Human Development Index,75.094,2015
+MYS,Malaysia,le,Life Expectancy at Birth (years),HDI,Human Development Index,75.289,2016
+MYS,Malaysia,le,Life Expectancy at Birth (years),HDI,Human Development Index,75.476,2017
+MYS,Malaysia,le,Life Expectancy at Birth (years),HDI,Human Development Index,75.644,2018
+MYS,Malaysia,le,Life Expectancy at Birth (years),HDI,Human Development Index,75.76,2019
+MYS,Malaysia,le,Life Expectancy at Birth (years),HDI,Human Development Index,75.938,2020
+MYS,Malaysia,le,Life Expectancy at Birth (years),HDI,Human Development Index,74.884,2021
+MYS,Malaysia,le,Life Expectancy at Birth (years),HDI,Human Development Index,76.26,2022
+MYS,Malaysia,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,73.525,1990
+MYS,Malaysia,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,73.671,1991
+MYS,Malaysia,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,73.875,1992
+MYS,Malaysia,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,74.092,1993
+MYS,Malaysia,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,74.442,1994
+MYS,Malaysia,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,74.692,1995
+MYS,Malaysia,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,74.65,1996
+MYS,Malaysia,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,74.64,1997
+MYS,Malaysia,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,74.542,1998
+MYS,Malaysia,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,74.664,1999
+MYS,Malaysia,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,75.11,2000
+MYS,Malaysia,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,75.66,2001
+MYS,Malaysia,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,75.857,2002
+MYS,Malaysia,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,76.194,2003
+MYS,Malaysia,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,76.276,2004
+MYS,Malaysia,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,76.437,2005
+MYS,Malaysia,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,76.432,2006
+MYS,Malaysia,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,76.474,2007
+MYS,Malaysia,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,76.576,2008
+MYS,Malaysia,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,76.79,2009
+MYS,Malaysia,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,77.124,2010
+MYS,Malaysia,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,77.485,2011
+MYS,Malaysia,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,77.598,2012
+MYS,Malaysia,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,77.618,2013
+MYS,Malaysia,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,77.677,2014
+MYS,Malaysia,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,77.728,2015
+MYS,Malaysia,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,77.938,2016
+MYS,Malaysia,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,78.139,2017
+MYS,Malaysia,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,78.267,2018
+MYS,Malaysia,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,78.306,2019
+MYS,Malaysia,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,78.472,2020
+MYS,Malaysia,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,77.362,2021
+MYS,Malaysia,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,78.799,2022
+MYS,Malaysia,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,69.249,1990
+MYS,Malaysia,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,69.368,1991
+MYS,Malaysia,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,69.351,1992
+MYS,Malaysia,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,69.709,1993
+MYS,Malaysia,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,70.027,1994
+MYS,Malaysia,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,70.219,1995
+MYS,Malaysia,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,70.147,1996
+MYS,Malaysia,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,70.074,1997
+MYS,Malaysia,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,69.943,1998
+MYS,Malaysia,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,70.047,1999
+MYS,Malaysia,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,70.57,2000
+MYS,Malaysia,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,71.158,2001
+MYS,Malaysia,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,71.403,2002
+MYS,Malaysia,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,71.563,2003
+MYS,Malaysia,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,71.695,2004
+MYS,Malaysia,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,71.935,2005
+MYS,Malaysia,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,72.078,2006
+MYS,Malaysia,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,72.144,2007
+MYS,Malaysia,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,72.148,2008
+MYS,Malaysia,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,71.953,2009
+MYS,Malaysia,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,72.091,2010
+MYS,Malaysia,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,72.341,2011
+MYS,Malaysia,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,72.595,2012
+MYS,Malaysia,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,72.735,2013
+MYS,Malaysia,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,72.883,2014
+MYS,Malaysia,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,72.75,2015
+MYS,Malaysia,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,72.927,2016
+MYS,Malaysia,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,73.099,2017
+MYS,Malaysia,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,73.293,2018
+MYS,Malaysia,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,73.465,2019
+MYS,Malaysia,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,73.648,2020
+MYS,Malaysia,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,72.659,2021
+MYS,Malaysia,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,73.955,2022
+MYS,Malaysia,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,47.76,1990
+MYS,Malaysia,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,35.09,1991
+MYS,Malaysia,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,46.94,1992
+MYS,Malaysia,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,46.52,1993
+MYS,Malaysia,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,45.6,1994
+MYS,Malaysia,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,44.68,1995
+MYS,Malaysia,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,46.76,1996
+MYS,Malaysia,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,45.95,1997
+MYS,Malaysia,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,44.39,1998
+MYS,Malaysia,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,44.67,1999
+MYS,Malaysia,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,47.57,2000
+MYS,Malaysia,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,46.83,2001
+MYS,Malaysia,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,46.69,2002
+MYS,Malaysia,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,47.73,2003
+MYS,Malaysia,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,47.24,2004
+MYS,Malaysia,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,45.93,2005
+MYS,Malaysia,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,46.28,2006
+MYS,Malaysia,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,46.63,2007
+MYS,Malaysia,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,46.98,2008
+MYS,Malaysia,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,47.33,2009
+MYS,Malaysia,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,47.68,2010
+MYS,Malaysia,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,48.03,2011
+MYS,Malaysia,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,49.91,2012
+MYS,Malaysia,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,51.8,2013
+MYS,Malaysia,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,53.68,2014
+MYS,Malaysia,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,54.1,2015
+MYS,Malaysia,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,54.31,2016
+MYS,Malaysia,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,54.73,2017
+MYS,Malaysia,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,55.23,2018
+MYS,Malaysia,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,55.62,2019
+MYS,Malaysia,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,55.35,2020
+MYS,Malaysia,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,55.08,2021
+MYS,Malaysia,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,55.08,2022
+MYS,Malaysia,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,85.28,1990
+MYS,Malaysia,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,74.84,1991
+MYS,Malaysia,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,84.86,1992
+MYS,Malaysia,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,86.01,1993
+MYS,Malaysia,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,85.17,1994
+MYS,Malaysia,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,84.33,1995
+MYS,Malaysia,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,84.89,1996
+MYS,Malaysia,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,84.26,1997
+MYS,Malaysia,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,83.28,1998
+MYS,Malaysia,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,82.83,1999
+MYS,Malaysia,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,81.71,2000
+MYS,Malaysia,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,82.34,2001
+MYS,Malaysia,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,81.54,2002
+MYS,Malaysia,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,82.12,2003
+MYS,Malaysia,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,80.88,2004
+MYS,Malaysia,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,79.98,2005
+MYS,Malaysia,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,79.94,2006
+MYS,Malaysia,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,79.89,2007
+MYS,Malaysia,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,79.85,2008
+MYS,Malaysia,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,79.8,2009
+MYS,Malaysia,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,79.76,2010
+MYS,Malaysia,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,79.71,2011
+MYS,Malaysia,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,80,2012
+MYS,Malaysia,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,80.29,2013
+MYS,Malaysia,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,80.58,2014
+MYS,Malaysia,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,80.65,2015
+MYS,Malaysia,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,80.17,2016
+MYS,Malaysia,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,80.06,2017
+MYS,Malaysia,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,80.42,2018
+MYS,Malaysia,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,80.83,2019
+MYS,Malaysia,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,80.65,2020
+MYS,Malaysia,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,80.47,2021
+MYS,Malaysia,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,80.47,2022
+MYS,Malaysia,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,17.578,2010
+MYS,Malaysia,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,17.51,2011
+MYS,Malaysia,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,16.731,2012
+MYS,Malaysia,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,16.752,2013
+MYS,Malaysia,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,15.502,2014
+MYS,Malaysia,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,15.53,2015
+MYS,Malaysia,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,14.662,2016
+MYS,Malaysia,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,14.625,2017
+MYS,Malaysia,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,14.589,2018
+MYS,Malaysia,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,14.534,2019
+MYS,Malaysia,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,14.464,2020
+MYS,Malaysia,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,14.411,2021
+MYS,Malaysia,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,14.25,2022
+MYS,Malaysia,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,10.315,1990
+MYS,Malaysia,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,11.469,1991
+MYS,Malaysia,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,12.717,1992
+MYS,Malaysia,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,13.39,1993
+MYS,Malaysia,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,14.108,1994
+MYS,Malaysia,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,14.631,1995
+MYS,Malaysia,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,17.71,1996
+MYS,Malaysia,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,16.088,1997
+MYS,Malaysia,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,9.446,1998
+MYS,Malaysia,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,9.866,1999
+MYS,Malaysia,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,12.982,2000
+MYS,Malaysia,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,15.057,2001
+MYS,Malaysia,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,12.549,2002
+MYS,Malaysia,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,13.252,2003
+MYS,Malaysia,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,13.146,2004
+MYS,Malaysia,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,13.021,2005
+MYS,Malaysia,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,14.239,2006
+MYS,Malaysia,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,15.19,2007
+MYS,Malaysia,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,15.37,2008
+MYS,Malaysia,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,15.091,2009
+MYS,Malaysia,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,15.88,2010
+MYS,Malaysia,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,19.784,2011
+MYS,Malaysia,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,21.323,2012
+MYS,Malaysia,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,19.448,2013
+MYS,Malaysia,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,19.869,2014
+MYS,Malaysia,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,19.45,2015
+MYS,Malaysia,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,19.692,2016
+MYS,Malaysia,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,21.609,2017
+MYS,Malaysia,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,25.59,2018
+MYS,Malaysia,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,21.343,2019
+MYS,Malaysia,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,23.999,2020
+MYS,Malaysia,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,20.366,2021
+MYS,Malaysia,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,20.846,2022
+MYS,Malaysia,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,48.64,1990
+MYS,Malaysia,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,47.34,1991
+MYS,Malaysia,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,46.145,1992
+MYS,Malaysia,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,45.251,1993
+MYS,Malaysia,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,43.645,1994
+MYS,Malaysia,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,39.786,1995
+MYS,Malaysia,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,40.579,1996
+MYS,Malaysia,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,41.257,1997
+MYS,Malaysia,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,42.797,1998
+MYS,Malaysia,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,39.959,1999
+MYS,Malaysia,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,39.747,2000
+MYS,Malaysia,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,35.713,2001
+MYS,Malaysia,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,36.472,2002
+MYS,Malaysia,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,32.074,2003
+MYS,Malaysia,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,32.545,2004
+MYS,Malaysia,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,32.148,2005
+MYS,Malaysia,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,32.001,2006
+MYS,Malaysia,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,28.032,2007
+MYS,Malaysia,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,30.479,2008
+MYS,Malaysia,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,29.526,2009
+MYS,Malaysia,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,25.476,2010
+MYS,Malaysia,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,24.053,2011
+MYS,Malaysia,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,23.545,2012
+MYS,Malaysia,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,23.085,2013
+MYS,Malaysia,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,22.531,2014
+MYS,Malaysia,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,22.337,2015
+MYS,Malaysia,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,21.939,2016
+MYS,Malaysia,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,21.615,2017
+MYS,Malaysia,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,21.516,2018
+MYS,Malaysia,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,21.58,2019
+MYS,Malaysia,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,21.132,2020
+MYS,Malaysia,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,21.132,2021
+MYS,Malaysia,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,21.132,2022
+MYS,Malaysia,mys,Mean Years of Schooling (years),HDI,Human Development Index,6.146,1990
+MYS,Malaysia,mys,Mean Years of Schooling (years),HDI,Human Development Index,6.34,1991
+MYS,Malaysia,mys,Mean Years of Schooling (years),HDI,Human Development Index,6.534,1992
+MYS,Malaysia,mys,Mean Years of Schooling (years),HDI,Human Development Index,6.728,1993
+MYS,Malaysia,mys,Mean Years of Schooling (years),HDI,Human Development Index,6.921,1994
+MYS,Malaysia,mys,Mean Years of Schooling (years),HDI,Human Development Index,7.115,1995
+MYS,Malaysia,mys,Mean Years of Schooling (years),HDI,Human Development Index,7.228,1996
+MYS,Malaysia,mys,Mean Years of Schooling (years),HDI,Human Development Index,7.525,1997
+MYS,Malaysia,mys,Mean Years of Schooling (years),HDI,Human Development Index,7.822,1998
+MYS,Malaysia,mys,Mean Years of Schooling (years),HDI,Human Development Index,8.119,1999
+MYS,Malaysia,mys,Mean Years of Schooling (years),HDI,Human Development Index,8.416,2000
+MYS,Malaysia,mys,Mean Years of Schooling (years),HDI,Human Development Index,8.251,2001
+MYS,Malaysia,mys,Mean Years of Schooling (years),HDI,Human Development Index,8.086,2002
+MYS,Malaysia,mys,Mean Years of Schooling (years),HDI,Human Development Index,7.921,2003
+MYS,Malaysia,mys,Mean Years of Schooling (years),HDI,Human Development Index,7.756,2004
+MYS,Malaysia,mys,Mean Years of Schooling (years),HDI,Human Development Index,7.591,2005
+MYS,Malaysia,mys,Mean Years of Schooling (years),HDI,Human Development Index,8.084,2006
+MYS,Malaysia,mys,Mean Years of Schooling (years),HDI,Human Development Index,8.577,2007
+MYS,Malaysia,mys,Mean Years of Schooling (years),HDI,Human Development Index,9.07,2008
+MYS,Malaysia,mys,Mean Years of Schooling (years),HDI,Human Development Index,9.563,2009
+MYS,Malaysia,mys,Mean Years of Schooling (years),HDI,Human Development Index,9.698,2010
+MYS,Malaysia,mys,Mean Years of Schooling (years),HDI,Human Development Index,9.809,2011
+MYS,Malaysia,mys,Mean Years of Schooling (years),HDI,Human Development Index,9.921,2012
+MYS,Malaysia,mys,Mean Years of Schooling (years),HDI,Human Development Index,10.032,2013
+MYS,Malaysia,mys,Mean Years of Schooling (years),HDI,Human Development Index,10.144,2014
+MYS,Malaysia,mys,Mean Years of Schooling (years),HDI,Human Development Index,10.255,2015
+MYS,Malaysia,mys,Mean Years of Schooling (years),HDI,Human Development Index,10.367,2016
+MYS,Malaysia,mys,Mean Years of Schooling (years),HDI,Human Development Index,10.459,2017
+MYS,Malaysia,mys,Mean Years of Schooling (years),HDI,Human Development Index,10.552,2018
+MYS,Malaysia,mys,Mean Years of Schooling (years),HDI,Human Development Index,10.645,2019
+MYS,Malaysia,mys,Mean Years of Schooling (years),HDI,Human Development Index,10.748,2020
+MYS,Malaysia,mys,Mean Years of Schooling (years),HDI,Human Development Index,10.748,2021
+MYS,Malaysia,mys,Mean Years of Schooling (years),HDI,Human Development Index,10.748,2022
+MYS,Malaysia,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,5.324,1990
+MYS,Malaysia,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,5.534,1991
+MYS,Malaysia,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,5.744,1992
+MYS,Malaysia,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,5.954,1993
+MYS,Malaysia,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,6.164,1994
+MYS,Malaysia,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,6.374,1995
+MYS,Malaysia,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,6.5,1996
+MYS,Malaysia,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,6.855,1997
+MYS,Malaysia,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,7.21,1998
+MYS,Malaysia,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,7.565,1999
+MYS,Malaysia,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,7.92,2000
+MYS,Malaysia,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,7.766,2001
+MYS,Malaysia,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,7.612,2002
+MYS,Malaysia,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,7.457,2003
+MYS,Malaysia,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,7.303,2004
+MYS,Malaysia,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,7.148,2005
+MYS,Malaysia,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,7.674,2006
+MYS,Malaysia,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,8.2,2007
+MYS,Malaysia,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,8.725,2008
+MYS,Malaysia,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,9.251,2009
+MYS,Malaysia,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,9.415,2010
+MYS,Malaysia,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,9.557,2011
+MYS,Malaysia,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,9.698,2012
+MYS,Malaysia,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,9.84,2013
+MYS,Malaysia,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,9.981,2014
+MYS,Malaysia,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,10.123,2015
+MYS,Malaysia,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,10.264,2016
+MYS,Malaysia,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,10.366,2017
+MYS,Malaysia,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,10.467,2018
+MYS,Malaysia,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,10.569,2019
+MYS,Malaysia,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,10.69,2020
+MYS,Malaysia,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,10.69,2021
+MYS,Malaysia,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,10.69,2022
+MYS,Malaysia,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,6.996,1990
+MYS,Malaysia,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,7.159,1991
+MYS,Malaysia,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,7.321,1992
+MYS,Malaysia,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,7.484,1993
+MYS,Malaysia,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,7.647,1994
+MYS,Malaysia,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,7.809,1995
+MYS,Malaysia,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,7.936,1996
+MYS,Malaysia,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,8.178,1997
+MYS,Malaysia,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,8.421,1998
+MYS,Malaysia,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,8.663,1999
+MYS,Malaysia,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,8.906,2000
+MYS,Malaysia,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,8.727,2001
+MYS,Malaysia,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,8.549,2002
+MYS,Malaysia,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,8.37,2003
+MYS,Malaysia,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,8.192,2004
+MYS,Malaysia,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,8.013,2005
+MYS,Malaysia,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,8.477,2006
+MYS,Malaysia,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,8.941,2007
+MYS,Malaysia,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,9.406,2008
+MYS,Malaysia,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,9.87,2009
+MYS,Malaysia,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,9.975,2010
+MYS,Malaysia,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,10.057,2011
+MYS,Malaysia,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,10.138,2012
+MYS,Malaysia,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,10.219,2013
+MYS,Malaysia,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,10.301,2014
+MYS,Malaysia,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,10.382,2015
+MYS,Malaysia,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,10.463,2016
+MYS,Malaysia,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,10.548,2017
+MYS,Malaysia,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,10.633,2018
+MYS,Malaysia,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,10.718,2019
+MYS,Malaysia,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,10.803,2020
+MYS,Malaysia,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,10.803,2021
+MYS,Malaysia,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,10.803,2022
+MYS,Malaysia,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,10.345,1990
+MYS,Malaysia,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,10.345,1991
+MYS,Malaysia,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,10.345,1992
+MYS,Malaysia,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,10.345,1993
+MYS,Malaysia,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,10.345,1994
+MYS,Malaysia,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,10.345,1995
+MYS,Malaysia,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,10.345,1996
+MYS,Malaysia,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,10.345,1997
+MYS,Malaysia,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,10.345,1998
+MYS,Malaysia,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,10.345,1999
+MYS,Malaysia,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,14.504,2000
+MYS,Malaysia,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,14.504,2001
+MYS,Malaysia,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,14.504,2002
+MYS,Malaysia,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,16.327,2003
+MYS,Malaysia,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,13.149,2004
+MYS,Malaysia,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,13.149,2005
+MYS,Malaysia,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,13.149,2006
+MYS,Malaysia,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,14.085,2007
+MYS,Malaysia,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,14.591,2008
+MYS,Malaysia,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,13.986,2009
+MYS,Malaysia,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,13.986,2010
+MYS,Malaysia,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,12.937,2011
+MYS,Malaysia,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,13.24,2012
+MYS,Malaysia,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,13.879,2013
+MYS,Malaysia,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,14.235,2014
+MYS,Malaysia,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,13.24,2015
+MYS,Malaysia,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,12.937,2016
+MYS,Malaysia,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,13.103,2017
+MYS,Malaysia,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,15.808,2018
+MYS,Malaysia,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,15.517,2019
+MYS,Malaysia,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,15.862,2020
+MYS,Malaysia,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,14.855,2021
+MYS,Malaysia,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,14.493,2022
+MYS,Malaysia,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,89.655,1990
+MYS,Malaysia,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,89.655,1991
+MYS,Malaysia,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,89.655,1992
+MYS,Malaysia,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,89.655,1993
+MYS,Malaysia,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,89.655,1994
+MYS,Malaysia,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,89.655,1995
+MYS,Malaysia,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,89.655,1996
+MYS,Malaysia,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,89.655,1997
+MYS,Malaysia,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,89.655,1998
+MYS,Malaysia,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,89.655,1999
+MYS,Malaysia,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,85.496,2000
+MYS,Malaysia,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,85.496,2001
+MYS,Malaysia,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,85.496,2002
+MYS,Malaysia,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,83.673,2003
+MYS,Malaysia,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,86.851,2004
+MYS,Malaysia,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,86.851,2005
+MYS,Malaysia,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,86.851,2006
+MYS,Malaysia,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,85.915,2007
+MYS,Malaysia,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,85.409,2008
+MYS,Malaysia,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,86.014,2009
+MYS,Malaysia,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,86.014,2010
+MYS,Malaysia,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,87.063,2011
+MYS,Malaysia,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,86.76,2012
+MYS,Malaysia,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,86.121,2013
+MYS,Malaysia,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,85.765,2014
+MYS,Malaysia,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,86.76,2015
+MYS,Malaysia,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,87.063,2016
+MYS,Malaysia,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,86.897,2017
+MYS,Malaysia,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,84.192,2018
+MYS,Malaysia,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,84.483,2019
+MYS,Malaysia,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,84.138,2020
+MYS,Malaysia,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,85.145,2021
+MYS,Malaysia,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,85.507,2022
+MYS,Malaysia,rankdiff_hdi_phdi,Difference from HDI rank,PHDI,Planetary pressures–adjusted Human Development Index,-11,2022
+MYS,Malaysia,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,32.86,1990
+MYS,Malaysia,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,34.873,1991
+MYS,Malaysia,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,36.887,1992
+MYS,Malaysia,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,38.9,1993
+MYS,Malaysia,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,40.913,1994
+MYS,Malaysia,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,42.926,1995
+MYS,Malaysia,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,44.139,1996
+MYS,Malaysia,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,46.028,1997
+MYS,Malaysia,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,47.918,1998
+MYS,Malaysia,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,49.807,1999
+MYS,Malaysia,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,51.696,2000
+MYS,Malaysia,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,49.938,2001
+MYS,Malaysia,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,48.18,2002
+MYS,Malaysia,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,46.423,2003
+MYS,Malaysia,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,44.665,2004
+MYS,Malaysia,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,42.907,2005
+MYS,Malaysia,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,48.073,2006
+MYS,Malaysia,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,53.238,2007
+MYS,Malaysia,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,58.404,2008
+MYS,Malaysia,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,63.569,2009
+MYS,Malaysia,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,65.076,2010
+MYS,Malaysia,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,66.264,2011
+MYS,Malaysia,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,67.451,2012
+MYS,Malaysia,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,68.638,2013
+MYS,Malaysia,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,69.825,2014
+MYS,Malaysia,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,71.013,2015
+MYS,Malaysia,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,72.2,2016
+MYS,Malaysia,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,73.146,2017
+MYS,Malaysia,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,74.093,2018
+MYS,Malaysia,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,75.039,2019
+MYS,Malaysia,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,76.128,2020
+MYS,Malaysia,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,76.128,2021
+MYS,Malaysia,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,76.128,2022
+MYS,Malaysia,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,44.838,1990
+MYS,Malaysia,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,46.627,1991
+MYS,Malaysia,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,48.417,1992
+MYS,Malaysia,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,50.207,1993
+MYS,Malaysia,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,51.996,1994
+MYS,Malaysia,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,53.786,1995
+MYS,Malaysia,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,55.159,1996
+MYS,Malaysia,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,56.669,1997
+MYS,Malaysia,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,58.18,1998
+MYS,Malaysia,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,59.691,1999
+MYS,Malaysia,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,61.202,2000
+MYS,Malaysia,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,58.945,2001
+MYS,Malaysia,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,56.689,2002
+MYS,Malaysia,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,54.432,2003
+MYS,Malaysia,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,52.175,2004
+MYS,Malaysia,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,49.919,2005
+MYS,Malaysia,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,55.007,2006
+MYS,Malaysia,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,60.095,2007
+MYS,Malaysia,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,65.182,2008
+MYS,Malaysia,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,70.27,2009
+MYS,Malaysia,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,71.311,2010
+MYS,Malaysia,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,72.11,2011
+MYS,Malaysia,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,72.909,2012
+MYS,Malaysia,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,73.708,2013
+MYS,Malaysia,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,74.506,2014
+MYS,Malaysia,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,75.305,2015
+MYS,Malaysia,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,76.104,2016
+MYS,Malaysia,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,76.88,2017
+MYS,Malaysia,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,77.656,2018
+MYS,Malaysia,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,78.433,2019
+MYS,Malaysia,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,79.242,2020
+MYS,Malaysia,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,79.242,2021
+MYS,Malaysia,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,79.242,2022
